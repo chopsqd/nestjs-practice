@@ -1,0 +1,1 @@
+export const MONGODB_KEY: string="mongodb+srv://admin:wwwwww@cluster0.2pbhfnm.mongodb.net/products?retryWrites=true&w=majority"
